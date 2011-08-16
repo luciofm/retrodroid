@@ -1,3 +1,7 @@
+# RetroDroid
+
+![RetroDroid](http://luciofm.com/retro_droid_big.png "Retro Droid")
+
 This is a compatibility library for Android.
 
 The initial code is based on Reto Meier great work
