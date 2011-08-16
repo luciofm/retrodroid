@@ -1,6 +1,6 @@
 # RetroDroid
 
-![RetroDroid](http://luciofm.com/retro_droid_big.png "Retro Droid")
+![RetroDroid](http://luciofm.com/retro_droid.png "Retro Droid")
 
 This is a compatibility library for Android.
 
