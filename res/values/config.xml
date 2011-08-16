@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer name="location_request_time">900000</integer> <!--  15 minutes -->
+	<integer name="location_request_distance">75</integer> <!--  75 meters -->
+	<bool name="view_server_enabled">true</bool>
+</resources>
